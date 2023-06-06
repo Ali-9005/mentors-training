@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "628176158213",
+    "project_id": "mentor-training-37f35",
+    "storage_bucket": "mentor-training-37f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628176158213:android:16cbc03e45308eb27ee66c",
+        "android_client_info": {
+          "package_name": "com.example.mentor_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628176158213-6ku6jqannk2nejhr8a2t7t1lcoa4j30c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnTwcGA-oZka5zFQBBCxjbEkBEZUCcT3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628176158213-6ku6jqannk2nejhr8a2t7t1lcoa4j30c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628176158213-6v19da7cjkdo8gjtcviisrjj5u1odgi2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mentorTraining"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
